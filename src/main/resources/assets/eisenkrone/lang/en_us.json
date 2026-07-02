@@ -1,0 +1,13 @@
+{
+  "itemGroup.eisenkrone": "Example Mod Tab",
+  "block.eisenkrone.example_block": "Example Block",
+  "item.eisenkrone.example_item": "Example Item",
+
+  "eisenkrone.configuration.title": "Eisenkrone Configs",
+  "eisenkrone.configuration.section.eisenkrone.common.toml": "Eisenkrone Configs",
+  "eisenkrone.configuration.section.eisenkrone.common.toml.title": "Eisenkrone Configs",
+  "eisenkrone.configuration.items": "Item List",
+  "eisenkrone.configuration.logDirtBlock": "Log Dirt Block",
+  "eisenkrone.configuration.magicNumberIntroduction": "Magic Number Text",
+  "eisenkrone.configuration.magicNumber": "Magic Number"
+}
