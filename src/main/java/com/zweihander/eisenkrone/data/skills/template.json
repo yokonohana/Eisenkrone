@@ -1,0 +1,11 @@
+{
+  "id": "basic_skill",
+  "display_name": "Basic skill",
+  "desc": "This is a description.",
+  "primary_attr": "brawn",
+  "type": "common",
+  "focuses":
+    [
+      "focus_1", "focus_2"
+    ]
+}
