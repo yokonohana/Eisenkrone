@@ -1,0 +1,6 @@
+{
+  "id": "basic_talent",
+  "display_name": "Basic talent",
+  "desc": "This is a description.",
+  "id_effect": "effect_basic_talent"
+}
