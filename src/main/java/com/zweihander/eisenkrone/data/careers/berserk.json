@@ -1,0 +1,24 @@
+{
+  "id": "berserk",
+  "display_name": "berserk",
+  "type": "warrior",
+  "desc": "this is a description.",
+  "career_trait": "warp spasm",
+  "special_trait": "",
+  "drawback": "",
+  "advances": {
+    "skills":
+      [
+        "athletics", "folklore", "guile", "intimidate", "martial_melee",
+        "resolve", "simple_melee", "simple_ranged", "toughness", "warfare"
+      ],
+    "bonus":
+    [
+      "BB", "BB", "CB", "CB", "IB", "WB", "WB"
+    ],
+    "talents":
+    [
+      "nerves_of_steel", "overwhelming_force", "run_amok"
+    ]
+  }
+}

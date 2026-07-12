@@ -1,0 +1,24 @@
+{
+  "id": "anchorite",
+  "display_name": "anchorite",
+  "type": "academic",
+  "desc": "this is a description.",
+  "career_trait": "sacred_mantra",
+  "special_trait": "",
+  "drawback": "",
+  "advances": {
+    "skills":
+      [
+        "coordination", "folklore", "handle_animal", "heal", "resolve",
+        "scrutinize", "simple_melee", "simple_ranged", "survival", "toughness"
+      ],
+    "bonus":
+    [
+      "AB", "BB", "CB", "IB", "PB", "WB", "WB"
+    ],
+    "talents":
+    [
+      "clinch_fighter", "determination", "impervious_mind"
+    ]
+  }
+}

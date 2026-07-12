@@ -1,0 +1,24 @@
+{
+  "id": "anarchist",
+  "display_name": "anarchist",
+  "type": "sociality",
+  "desc": "this is a description.",
+  "career_trait": "rabble_rousing",
+  "special_trait": "",
+  "drawback": "",
+  "advances": {
+    "skills":
+      [
+        "eavesdrop", "folklore", "guile", "interrogation", "leadership",
+        "resolve", "intimidate", "rumor", "scrutinize", "simple_melee"
+      ],
+    "bonus":
+    [
+      "BB", "FB", "FB", "PB", "PB", "WB", "WB"
+    ],
+    "talents":
+    [
+      "forked_tongue", "impervious_mind", "long_winded"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "adherent",
+  "display_name": "adherent",
+  "type": "academic",
+  "desc": "this is a description.",
+  "career_trait": "turn_the_other_cheek",
+  "special_trait": "divine_magick",
+  "drawback": "lure_of_power",
+  "advances": {
+    "skills":
+      [
+        "charm", "education", "folklore", "handle_animal", "heal",
+        "incantation", "resolve", "rumor", "scrutinize", "simple_melee"
+      ],
+    "bonus":
+    [
+      "FB", "FB", "IB", "IB", "PB", "WB", "WB"
+    ],
+    "talents":
+    [
+      "impervious_mind", "indifference", "multilingual"
+    ]
+  }
+}
