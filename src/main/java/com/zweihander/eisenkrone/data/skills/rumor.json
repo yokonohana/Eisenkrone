@@ -1,0 +1,11 @@
+{
+  "id": "rumor",
+  "display_name": "rumor",
+  "desc": "This is a description.",
+  "primary_attr": "fellowship",
+  "type": "common",
+  "focuses":
+  [
+    "etiquette", "gossip", "linguistics", "public_speaking", "secret_language"
+  ]
+}

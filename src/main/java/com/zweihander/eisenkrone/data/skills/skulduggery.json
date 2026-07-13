@@ -1,0 +1,11 @@
+{
+  "id": "skulduggery",
+  "display_name": "skulduggery",
+  "desc": "This is a description.",
+  "primary_attr": "agility",
+  "type": "special",
+  "focuses":
+  [
+    "disable_traps", "lock_picking", "palm_object", "pick_pocket", "set_trap", "window_fishing"
+  ]
+}

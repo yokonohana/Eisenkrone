@@ -1,0 +1,11 @@
+{
+  "id": "awareness",
+  "display_name": "awareness",
+  "desc": "This is a description.",
+  "primary_attr": "perception",
+  "type": "common",
+  "focuses":
+  [
+    "count", "discern_details"
+  ]
+}

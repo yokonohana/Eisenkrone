@@ -1,0 +1,11 @@
+{
+  "id": "survival",
+  "display_name": "survival",
+  "desc": "This is a description.",
+  "primary_attr": "perception",
+  "type": "common",
+  "focuses":
+  [
+    "build_shelter", "find_water", "forage", "game_hunting", "plant_lore", "survivalist", "tracking"
+  ]
+}

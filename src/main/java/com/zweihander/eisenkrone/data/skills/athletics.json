@@ -1,0 +1,11 @@
+{
+  "id": "athletics",
+  "display_name": "athletics",
+  "desc": "This is a description.",
+  "primary_attr": "brawn",
+  "type": "common",
+  "focuses":
+  [
+    "climb", "lift", "row", "swim", "wrestle"
+  ]
+}

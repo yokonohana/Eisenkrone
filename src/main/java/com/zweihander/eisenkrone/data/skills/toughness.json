@@ -1,0 +1,12 @@
+{
+  "id": "toughness",
+  "display_name": "toughness",
+  "desc": "This is a description.",
+  "primary_attr": "brawn",
+  "type": "common",
+  "focuses":
+  [
+    "consume_alcohol", "resist_disease", "resist_flames", "resist_magick",
+    "resist_peril",  "resist_poison", "resist_weather"
+  ]
+}

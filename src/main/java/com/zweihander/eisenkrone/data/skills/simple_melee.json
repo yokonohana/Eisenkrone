@@ -1,0 +1,11 @@
+{
+  "id": "simple_melee",
+  "display_name": "simple_melee",
+  "desc": "This is a description.",
+  "primary_attr": "combat",
+  "type": "common",
+  "focuses":
+  [
+    "bladed", "crushing", "parry_attack"
+  ]
+}

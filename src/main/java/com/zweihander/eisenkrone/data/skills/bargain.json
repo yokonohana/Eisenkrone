@@ -1,0 +1,11 @@
+{
+  "id": "bargain",
+  "display_name": "bargain",
+  "desc": "This is a description.",
+  "primary_attr": "fellowship",
+  "type": "common",
+  "focuses":
+  [
+    "bribery", "courtly_intrigue", "diplomacy", "evaluate", "haggle"
+  ]
+}

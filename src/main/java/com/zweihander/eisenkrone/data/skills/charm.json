@@ -1,0 +1,11 @@
+{
+  "id": "charm",
+  "display_name": "charm",
+  "desc": "This is a description.",
+  "primary_attr": "fellowship",
+  "type": "common",
+  "focuses":
+  [
+    "acting", "begging", "comedy", "mime", "play_music", "seduce", "sing", "storytelling", "write_poetry"
+  ]
+}

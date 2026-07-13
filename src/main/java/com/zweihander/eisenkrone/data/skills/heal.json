@@ -1,0 +1,12 @@
+{
+  "id": "heal",
+  "display_name": "heal",
+  "desc": "This is a description.",
+  "primary_attr": "intelligence",
+  "type": "special",
+  "focuses":
+  [
+    "bind_wounds", "bloodletting", "kiss_of_life", "perform_psychosurgery",
+    "perform_surgery", "prepare_bandages", "treat_disease", "treat_injury"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "warfare",
+  "display_name": "warfare",
+  "desc": "This is a description.",
+  "primary_attr": "intelligence",
+  "type": "special",
+  "focuses":
+  [
+    "fortification", "military_tactics", "war_machines"
+  ]
+}

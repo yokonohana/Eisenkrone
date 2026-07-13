@@ -1,0 +1,11 @@
+{
+  "id": "martial_ranged",
+  "display_name": "martial_ranged",
+  "desc": "This is a description.",
+  "primary_attr": "combat",
+  "type": "special",
+  "focuses":
+  [
+    "gunpowder", "missile"
+  ]
+}

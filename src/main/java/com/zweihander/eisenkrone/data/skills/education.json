@@ -1,0 +1,11 @@
+{
+  "id": "education",
+  "display_name": "education",
+  "desc": "This is a description.",
+  "primary_attr": "intelligence",
+  "type": "special",
+  "focuses":
+  [
+    "astronomy", "cartography", "geography", "heraldry", "history", "law", "politics", "science", "theology"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "counterfeit",
+  "display_name": "counterfeit",
+  "desc": "This is a description.",
+  "primary_attr": "intelligence",
+  "type": "special",
+  "focuses":
+  [
+    "clip_coins", "embezzle", "forgery"
+  ]
+}

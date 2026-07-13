@@ -1,0 +1,11 @@
+{
+  "id": "interrogation",
+  "display_name": "interrogation",
+  "desc": "This is a description.",
+  "primary_attr": "willpower",
+  "type": "special",
+  "focuses":
+  [
+    "mental_torture", "physical_torture"
+  ]
+}

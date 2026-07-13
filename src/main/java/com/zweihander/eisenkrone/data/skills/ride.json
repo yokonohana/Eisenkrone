@@ -1,0 +1,11 @@
+{
+  "id": "ride",
+  "display_name": "ride",
+  "desc": "This is a description.",
+  "primary_attr": "agility",
+  "type": "special",
+  "focuses":
+  [
+    "ride_animal", "ride_beast", "trick_riding"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "eavesdrop",
+  "display_name": "eavesdrop",
+  "desc": "This is a description.",
+  "primary_attr": "perception",
+  "type": "common",
+  "focuses":
+  [
+    "lip_reading", "listen_in", "sign_language", "ventriloquism"
+  ]
+}

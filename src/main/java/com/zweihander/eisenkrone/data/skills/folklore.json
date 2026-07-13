@@ -1,0 +1,11 @@
+{
+  "id": "folklore",
+  "display_name": "folklore",
+  "desc": "This is a description.",
+  "primary_attr": "intelligence",
+  "type": "common",
+  "focuses":
+  [
+    "creature_lore", "foreign_lore", "local_lore"
+  ]
+}

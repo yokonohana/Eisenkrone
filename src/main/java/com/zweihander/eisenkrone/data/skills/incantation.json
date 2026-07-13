@@ -1,0 +1,13 @@
+{
+  "id": "incantation",
+  "display_name": "incantation",
+  "desc": "This is a description.",
+  "primary_attr": "willpower",
+  "type": "special",
+  "focuses":
+  [
+    "astrology", "card_reading", "cast_runes", "concentration",
+    "conduct_ritual", "counterspell", "dream_interpretation", "hypnotize",
+    "learn_magick", "palmistry", "scapulimancy", "scrying"
+  ]
+}

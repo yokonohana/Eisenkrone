@@ -1,0 +1,11 @@
+{
+  "id": "guile",
+  "display_name": "guile",
+  "desc": "This is a description.",
+  "primary_attr": "fellowship",
+  "type": "common",
+  "focuses":
+  [
+    "appear_innocence", "blather", "con_games", "deception", "innuendo", "thieves_cant"
+  ]
+}

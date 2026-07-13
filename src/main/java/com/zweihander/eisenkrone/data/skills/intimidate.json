@@ -1,0 +1,11 @@
+{
+  "id": "intimidate",
+  "display_name": "intimidate",
+  "desc": "This is a description.",
+  "primary_attr": "brawn",
+  "type": "common",
+  "focuses":
+  [
+    "physical_presence", "threaten"
+  ]
+}

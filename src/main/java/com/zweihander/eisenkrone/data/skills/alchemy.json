@@ -1,0 +1,11 @@
+{
+  "id": "alchemy",
+  "display_name": "alchemy",
+  "desc": "This is a description.",
+  "primary_attr": "intelligence",
+  "type": "special",
+  "focuses":
+  [
+    "gunpowder", "medicine", "poison", "wytchstone"
+  ]
+}

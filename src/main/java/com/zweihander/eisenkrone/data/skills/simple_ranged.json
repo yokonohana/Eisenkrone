@@ -1,0 +1,11 @@
+{
+  "id": "simple_ranged",
+  "display_name": "simple_ranged",
+  "desc": "This is a description.",
+  "primary_attr": "combat",
+  "type": "common",
+  "focuses":
+  [
+    "gunpowder", "missile"
+  ]
+}

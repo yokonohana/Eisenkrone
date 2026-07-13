@@ -1,0 +1,11 @@
+{
+  "id": "resolve",
+  "display_name": "resolve",
+  "desc": "This is a description.",
+  "primary_attr": "willpower",
+  "type": "common",
+  "focuses":
+  [
+    "resist_fear", "resist_magick", "resist_stress", "resist_terror"
+  ]
+}

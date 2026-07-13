@@ -1,0 +1,13 @@
+{
+  "id": "tradecraft",
+  "display_name": "tradecraft",
+  "desc": "This is a description.",
+  "primary_attr": "willpower",
+  "type": "special",
+  "focuses":
+  [
+    "artistry", "brewing", "carpentry", "engineering", "fine_smithery",
+    "gastronomy", "gunsmithing", "metallurgy", "runesmith", "shipwright",
+    "smithing", "stoneworking", "tailoring", "tanning", "weaponsmithing"
+  ]
+}

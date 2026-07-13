@@ -1,0 +1,11 @@
+{
+  "id": "stealth",
+  "display_name": "stealth",
+  "desc": "This is a description.",
+  "primary_attr": "agility",
+  "type": "common",
+  "focuses":
+  [
+    "ambush", "hide", "scout", "shadowing", "silent_movement"
+  ]
+}

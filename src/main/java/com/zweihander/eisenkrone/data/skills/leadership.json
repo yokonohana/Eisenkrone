@@ -1,0 +1,11 @@
+{
+  "id": "leadership",
+  "display_name": "leadership",
+  "desc": "This is a description.",
+  "primary_attr": "fellowship",
+  "type": "special",
+  "focuses":
+  [
+    "incite_rebellion", "military_command", "spiritual_leadership", "stewardship"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "scrutinize",
+  "display_name": "scrutinize",
+  "desc": "This is a description.",
+  "primary_attr": "perception",
+  "type": "common",
+  "focuses":
+  [
+    "cryptography", "detect_lies", "memory", "sense_social_class"
+  ]
+}

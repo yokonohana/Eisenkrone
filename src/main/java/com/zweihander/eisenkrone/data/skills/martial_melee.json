@@ -1,0 +1,11 @@
+{
+  "id": "martial_melee",
+  "display_name": "martial_melee",
+  "desc": "This is a description.",
+  "primary_attr": "combat",
+  "type": "special",
+  "focuses":
+  [
+    "bladed", "crushing", "parry_attack"
+  ]
+}

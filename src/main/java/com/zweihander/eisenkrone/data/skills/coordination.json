@@ -1,0 +1,11 @@
+{
+  "id": "coordination",
+  "display_name": "coordination",
+  "desc": "This is a description.",
+  "primary_attr": "agility",
+  "type": "common",
+  "focuses":
+  [
+    "acrobatics", "balance", "contortion", "dance", "dodge_attack", "juggle"
+  ]
+}
