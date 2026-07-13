@@ -1,0 +1,24 @@
+{
+  "id": "astrologer",
+  "display_name": "astrologer",
+  "type": "academic",
+  "desc": "this is a description.",
+  "career_trait": "eldritch_signs",
+  "special_trait": "arcane_magick",
+  "drawback": "lure_of_power",
+  "advances": {
+    "skills":
+      [
+        "awareness", "education", "folklore", "guile", "incantation",
+        "navigation", "rumor", "scrutinize", "simple_ranged", "tradecraft"
+      ],
+    "bonus":
+    [
+      "FB", "IB", "IB", "PB", "PB", "WB", "WB"
+    ],
+    "talents":
+    [
+      "azimuth", "incredible_numeration", "secret_signs"
+    ]
+  }
+}

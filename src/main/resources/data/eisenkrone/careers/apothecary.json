@@ -1,0 +1,24 @@
+{
+  "id": "apothecary",
+  "display_name": "apothecary",
+  "type": "academic",
+  "desc": "this is a description.",
+  "career_trait": "nostrum_remedium",
+  "special_trait": "",
+  "drawback": "",
+  "advances": {
+    "skills":
+      [
+        "alchemy", "awareness", "bargain", "coordination", "education",
+        "folklore", "rumor", "simple_ranged", "survival", "tradecraft"
+      ],
+    "bonus":
+    [
+      "AB", "FB", "IB", "IB", "PB", "PB", "WB"
+    ],
+    "talents":
+    [
+      "ambidexterity", "determination", "nerves_of_steel"
+    ]
+  }
+}

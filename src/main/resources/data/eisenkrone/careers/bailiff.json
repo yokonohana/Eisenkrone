@@ -1,0 +1,24 @@
+{
+  "id": "bailiff",
+  "display_name": "bailiff",
+  "type": "ranger",
+  "desc": "this is a description.",
+  "career_trait": "pay_the_piper",
+  "special_trait": "",
+  "drawback": "",
+  "advances": {
+    "skills":
+      [
+        "bargain", "interrogation", "intimidate", "martial_melee", "ride",
+        "rumor", "simple_melee", "simple_ranged", "survival", "toughness"
+      ],
+    "bonus":
+    [
+      "BB", "AB", "CB", "CB", "FB", "PB", "WB"
+    ],
+    "talents":
+    [
+      "impervious_mind", "menacing_demeanor", "meeting_of_the_minds"
+    ]
+  }
+}

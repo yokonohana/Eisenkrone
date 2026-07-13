@@ -1,0 +1,24 @@
+{
+  "id": "artisan",
+  "display_name": "artisan",
+  "type": "commoner",
+  "desc": "this is a description.",
+  "career_trait": "guild_privilege",
+  "special_trait": "",
+  "drawback": "",
+  "advances": {
+    "skills":
+      [
+        "athletics", "bargain", "coordination", "counterfeit", "folklore",
+        "resolve", "rumor", "simple_melee", "tradecraft", "warfare"
+      ],
+    "bonus":
+    [
+      "AB", "BB", "BB", "FB", "IB", "WB", "WB"
+    ],
+    "talents":
+    [
+      "determination", "long_winded", "strong_jaw"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "barber_surgeon",
+  "display_name": "barber_surgeon",
+  "type": "commoner",
+  "desc": "this is a description.",
+  "career_trait": "pliers_scalpel_bonesaw",
+  "special_trait": "",
+  "drawback": "",
+  "advances": {
+    "skills":
+      [
+        "awareness", "bargain", "coordination", "education", "folklore",
+        "handle_animal", "heal", "rumor", "scrutinize", "simple_melee"
+      ],
+    "bonus":
+    [
+      "BB", "FB", "FB", "IB", "IB", "PB", "PB"
+    ],
+    "talents":
+    [
+      "determination", "indifference", "knifework"
+    ]
+  }
+}

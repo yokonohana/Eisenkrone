@@ -1,0 +1,24 @@
+{
+  "id": "animal_tamer",
+  "display_name": "animal_tamer",
+  "type": "ranger",
+  "desc": "this is a description.",
+  "career_trait": "beastmaster",
+  "special_trait": "",
+  "drawback": "",
+  "advances": {
+    "skills":
+      [
+        "athletics", "drive", "folklore", "guile", "handle_animal",
+        "resolve", "ride", "rumor", "simple_melee", "survival"
+      ],
+    "bonus":
+    [
+      "AB", "BB", "BB", "FB", "FB", "PB", "WB"
+    ],
+    "talents":
+    [
+      "carousing", "clinch_fighter", "gallows_humor"
+    ]
+  }
+}

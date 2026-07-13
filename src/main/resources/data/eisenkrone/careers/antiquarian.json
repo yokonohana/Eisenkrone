@@ -1,0 +1,24 @@
+{
+  "id": "antiquarian",
+  "display_name": "antiquarian",
+  "type": "academic",
+  "desc": "this is a description.",
+  "career_trait": "bookworm",
+  "special_trait": "",
+  "drawback": "",
+  "advances": {
+    "skills":
+      [
+        "bargain", "education", "folklore", "interrogation", "navigation",
+        "resolve", "rumor", "scrutinize", "simple_melee", "survival"
+      ],
+    "bonus":
+    [
+      "FB", "IB", "IB", "PB", "PB", "WB", "WB"
+    ],
+    "talents":
+    [
+      "incredible_numeration", "secret_signs", "worldly"
+    ]
+  }
+}
