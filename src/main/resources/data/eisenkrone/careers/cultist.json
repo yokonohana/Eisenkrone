@@ -1,0 +1,24 @@
+{
+  "id": "cultist",
+  "display_name": "cultist",
+  "type": "socialite",
+  "desc": "",
+  "career_trait": "cult_of_personality",
+  "special_trait": "divine_magick",
+  "drawback": "cruel_tutelage",
+  "advances": {
+    "skills":
+      [
+        "eavesdrop", "education", "folklore", "guile", "incantation",
+        "navigation", "resolve", "rumor", "scrutinize", "simple_melee"
+      ],
+    "bonus":
+    [
+      "FB", "IB", "IB", "PB", "PB", "WB", "WB"
+    ],
+    "talents":
+    [
+      "blood_magick", "forked_tongue", "secret_signs"
+    ]
+  }
+}

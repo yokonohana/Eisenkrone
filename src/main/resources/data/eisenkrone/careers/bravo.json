@@ -1,0 +1,24 @@
+{
+  "id": "bravo",
+  "display_name": "bravo",
+  "type": "warrior",
+  "desc": "",
+  "career_trait": "vim_and_vigor",
+  "special_trait": "",
+  "drawback": "",
+  "advances": {
+    "skills":
+      [
+        "athletics", "charm", "coordination", "folklore", "gamble",
+        "guile", "martial_melee", "resolve", "rumor", "simple_melee"
+      ],
+    "bonus":
+    [
+      "AB", "AB", "BB", "FB", "FB", "IB", "WB"
+    ],
+    "talents":
+    [
+      "fencers_panache", "incredible_numeration", "lightning_reaction"
+    ]
+  }
+}

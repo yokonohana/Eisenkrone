@@ -1,0 +1,24 @@
+{
+  "id": "cheapjack",
+  "display_name": "cheapjack",
+  "type": "commoner",
+  "desc": "",
+  "career_trait": "grease_the_wheels",
+  "special_trait": "",
+  "drawback": "",
+  "advances": {
+    "skills":
+      [
+        "bargain", "counterfeit", "drive", "folklore", "gamble",
+        "guile", "rumor", "scrutinize", "simple_melee", "tradecraft"
+      ],
+    "bonus":
+    [
+      "FB", "FB", "IB", "PB", "PB", "WB", "WB"
+    ],
+    "talents":
+    [
+      "forked_tongue", "larceny", "incredible_numeration"
+    ]
+  }
+}

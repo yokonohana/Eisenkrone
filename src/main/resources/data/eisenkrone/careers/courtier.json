@@ -1,0 +1,24 @@
+{
+  "id": "courtier",
+  "display_name": "courtier",
+  "type": "socialite",
+  "desc": "",
+  "career_trait": "machiavellian_intrigue",
+  "special_trait": "",
+  "drawback": "",
+  "advances": {
+    "skills":
+      [
+        "charm", "eavesdrop", "education", "folklore", "gamble",
+        "guile", "rumor", "scrutinize", "simple_melee", "stealth"
+      ],
+    "bonus":
+    [
+      "AB", "FB", "FB", "IB", "IB", "PB", "PB"
+    ],
+    "talents":
+    [
+      "forked_tongue", "holdout", "silver_tongue"
+    ]
+  }
+}

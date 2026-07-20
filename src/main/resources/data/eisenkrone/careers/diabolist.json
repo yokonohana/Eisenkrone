@@ -1,0 +1,24 @@
+{
+  "id": "diabolist",
+  "display_name": "diabolist",
+  "type": "academic",
+  "desc": "",
+  "career_trait": "winds_of_change",
+  "special_trait": "arcane_magick",
+  "drawback": "lure_of_power",
+  "advances": {
+    "skills":
+      [
+        "alchemy", "bargain", "coordination", "education", "folklore",
+        "incantation", "intimidate", "resolve", "rumor", "simple_melee"
+      ],
+    "bonus":
+    [
+      "AB", "FB", "IB", "IB", "PB", "WB", "WB"
+    ],
+    "talents":
+    [
+      "aethereal_alignment", "menacing_demeanor", "secret_signs"
+    ]
+  }
+}

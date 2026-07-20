@@ -1,0 +1,24 @@
+{
+  "id": "charlatan",
+  "display_name": "charlatan",
+  "type": "knave",
+  "desc": "",
+  "career_trait": "confidence_trick",
+  "special_trait": "",
+  "drawback": "",
+  "advances": {
+    "skills":
+      [
+        "counterfeit", "disguise", "eavesdrop", "gamble", "guile",
+        "intimidate", "resolve", "rumor", "scrutinize", "simple_melee"
+      ],
+    "bonus":
+    [
+      "IB", "FB", "FB", "PB", "PB", "WB", "WB"
+    ],
+    "talents":
+    [
+      "doppelganger", "forked_tongue", "holdout"
+    ]
+  }
+}

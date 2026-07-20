@@ -1,0 +1,24 @@
+{
+  "id": "doomsayer",
+  "display_name": "doomsayer",
+  "type": "commoner",
+  "desc": "",
+  "career_trait": "holy_roller",
+  "special_trait": "",
+  "drawback": "the_end_is_nigh",
+  "advances": {
+    "skills":
+      [
+        "folklore", "heal", "interrogation", "leadership", "navigation",
+        "resolve", "simple_melee", "simple_ranged", "survival", "toughness"
+      ],
+    "bonus":
+    [
+      "BB", "BB", "IB", "PB", "PB", "WB", "WB"
+    ],
+    "talents":
+    [
+      "hard_to_kill", "impervious_mind", "run_amok"
+    ]
+  }
+}

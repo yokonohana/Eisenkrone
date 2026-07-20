@@ -1,0 +1,24 @@
+{
+  "id": "beggar",
+  "display_name": "beggar",
+  "type": "knave",
+  "desc": "",
+  "career_trait": "beggars_bowl",
+  "special_trait": "",
+  "drawback": "",
+  "advances": {
+    "skills":
+      [
+        "awareness", "disguise", "eavesdrop", "folklore", "guile",
+        "intimidate", "rumor", "simple_melee", "skulduggery", "stealth"
+      ],
+    "bonus":
+    [
+      "AB", "AB", "BB", "FB", "FB", "PB", "PB"
+    ],
+    "talents":
+    [
+      "forked_tongue", "streetwise", "supernatural_paranoia"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "buccaneer",
+  "display_name": "buccaneer",
+  "type": "warrior",
+  "desc": "",
+  "career_trait": "salty_dog",
+  "special_trait": "",
+  "drawback": "",
+  "advances": {
+    "skills":
+      [
+        "athletics", "folklore", "gamble", "guile", "martial_ranged",
+        "intimidate", "pilot", "resolve", "simple_melee", "simple_ranged"
+      ],
+    "bonus":
+    [
+      "AB", "AB", "CB", "BB", "BB", "FB", "WB"
+    ],
+    "talents":
+    [
+      "appalling_mien", "gallows_humor", "mariner"
+    ]
+  }
+}

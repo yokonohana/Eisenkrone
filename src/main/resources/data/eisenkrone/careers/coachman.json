@@ -1,0 +1,24 @@
+{
+  "id": "coachman",
+  "display_name": "coachman",
+  "type": "commoner",
+  "desc": "",
+  "career_trait": "four_in_hand",
+  "special_trait": "",
+  "drawback": "",
+  "advances": {
+    "skills":
+      [
+        "awareness", "drive", "folklore", "handle_animal", "martial_ranged",
+        "navigation", "ride", "rumor", "simple_ranged", "survival"
+      ],
+    "bonus":
+    [
+      "AB", "BB", "BB", "CB", "FB", "PB", "PB"
+    ],
+    "talents":
+    [
+      "azimuth", "mounted_defense", "saddle_born"
+    ]
+  }
+}

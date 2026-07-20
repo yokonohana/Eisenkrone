@@ -1,0 +1,24 @@
+{
+  "id": "burglar",
+  "display_name": "burglar",
+  "type": "knave",
+  "desc": "",
+  "career_trait": "nimble_fingers",
+  "special_trait": "",
+  "drawback": "",
+  "advances": {
+    "skills":
+      [
+        "athletics", "awareness", "bargain", "counterfeit", "guile",
+        "folklore", "rumor", "simple_ranged", "skulduggery", "stealth"
+      ],
+    "bonus":
+    [
+      "AB", "AB", "BB", "FB", "FB", "IB", "PB"
+    ],
+    "talents":
+    [
+      "holdout", "housebreaker", "larceny"
+    ]
+  }
+}

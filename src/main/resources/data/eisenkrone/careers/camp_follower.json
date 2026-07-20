@@ -1,0 +1,24 @@
+{
+  "id": "camp_follower",
+  "display_name": "camp follower",
+  "type": "commoner",
+  "desc": "",
+  "career_trait": "feast_or_famine",
+  "special_trait": "",
+  "drawback": "",
+  "advances": {
+    "skills":
+      [
+        "bargain", "handle_animal", "heal", "martial_ranged", "resolve",
+        "rumor", "simple_ranged", "survival", "toughness", "tradecraft"
+      ],
+    "bonus":
+    [
+      "BB", "BB", "FB", "FB", "PB", "WB", "WB"
+    ],
+    "talents":
+    [
+      "carousing", "sprint", "strong_jaw"
+    ]
+  }
+}

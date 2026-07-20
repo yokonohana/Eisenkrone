@@ -1,0 +1,24 @@
+{
+  "id": "bounty_hunter",
+  "display_name": "bounty hunter",
+  "type": "ranger",
+  "desc": "",
+  "career_trait": "for_a_few_shillings_more",
+  "special_trait": "",
+  "drawback": "",
+  "advances": {
+    "skills":
+      [
+        "awareness", "bargain", "martial_ranged", "navigation", "ride",
+        "rumor", "simple_melee", "simple_ranged", "survival", "toughness"
+      ],
+    "bonus":
+    [
+      "AB", "AB", "CB", "CB", "IB", "PB", "PB"
+    ],
+    "talents":
+    [
+      "no_mercy", "saddle_born", "take_em_down"
+    ]
+  }
+}

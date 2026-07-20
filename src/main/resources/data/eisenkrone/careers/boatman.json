@@ -1,0 +1,24 @@
+{
+  "id": "boatman",
+  "display_name": "boatman",
+  "type": "commoner",
+  "desc": "",
+  "career_trait": "batten_down_the_hatches",
+  "special_trait": "",
+  "drawback": "",
+  "advances": {
+    "skills":
+      [
+        "athletics", "bargain", "coordination", "folklore", "gamble",
+        "navigation", "pilot", "resolve", "rumor", "simple_melee"
+      ],
+    "bonus":
+    [
+      "AB", "AB", "BB", "BB", "FB", "IB", "WB"
+    ],
+    "talents":
+    [
+      "azimuth", "carousing", "mariner"
+    ]
+  }
+}
