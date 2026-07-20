@@ -28,9 +28,9 @@ license="${mod_license}"
     ordering="NONE"
     side="BOTH"
 
-[[dependencies.${mod_id}]]
-    modId="dicelib"
-    type="required"
-    versionRange="[1.0.0,)"
-    ordering="NONE"
-    side="BOTH"
+#[[dependencies.${mod_id}]]
+#    modId="dicelib"
+#    type="required"
+#    versionRange="[1.0.0,)"
+#    ordering="NONE"
+#    side="BOTH"

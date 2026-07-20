@@ -2,6 +2,7 @@ package com.zweihander.eisenkrone.systems.skills;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonElement;
+import com.mojang.logging.LogUtils;
 import com.mojang.serialization.DataResult;
 import com.mojang.serialization.JsonOps;
 import net.minecraft.resources.ResourceLocation;
@@ -37,5 +38,7 @@ public class SkillJsonLoader extends SimpleJsonResourceReloadListener {
 
             mbSkill.ifPresent(skill -> SkillRegistry.registry(id, skill));
         }
+
+        LogUtils.getLogger().info("Loaded {} skills", SkillRegistry.getAll().size());
     }
 }
