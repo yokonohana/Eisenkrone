@@ -8,18 +8,20 @@
   "advances": {
     "skills":
       [
-        "coordination", "folklore", "handle_animal", "heal", "resolve",
-        "scrutinize", "simple_melee", "simple_ranged", "survival", "toughness"
+        "coordination",   "folklore",       "handle_animal",
+        "heal",           "resolve",        "scrutinize",
+        "simple_melee",   "simple_ranged",  "survival",
+        "toughness"
       ],
     "bonus":
     [
-      { "attribute": "agility", "amount":  5 },
-      { "attribute": "brawn", "amount":  5 },
-      { "attribute": "combat", "amount":  5 },
-      { "attribute": "intelligence", "amount":  5 },
-      { "attribute": "perception", "amount":  5 },
-      { "attribute": "willpower", "amount":  5 },
-      { "attribute": "willpower", "amount":  5 }
+      { "attribute": "agility",       "amount":  5 },
+      { "attribute": "brawn",         "amount":  5 },
+      { "attribute": "combat",        "amount":  5 },
+      { "attribute": "intelligence",  "amount":  5 },
+      { "attribute": "perception",    "amount":  5 },
+      { "attribute": "willpower",     "amount":  5 },
+      { "attribute": "willpower",     "amount":  5 }
     ],
     "talents":
     [

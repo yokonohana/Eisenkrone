@@ -8,18 +8,20 @@
   "advances": {
     "skills":
       [
-        "charm", "education", "folklore", "handle_animal", "heal",
-        "incantation", "resolve", "rumor", "scrutinize", "simple_melee"
+        "charm",          "education",  "folklore",
+        "handle_animal",  "heal",       "incantation",
+        "resolve",        "rumor",      "scrutinize",
+        "simple_melee"
       ],
     "bonus":
     [
-      { "attribute": "fellowship", "amount":  5 },
-      { "attribute": "fellowship", "amount":  5 },
-      { "attribute": "intelligence", "amount":  5 },
-      { "attribute": "intelligence", "amount":  5 },
-      { "attribute": "perception", "amount":  5 },
-      { "attribute": "willpower", "amount":  5 },
-      { "attribute": "willpower", "amount":  5 }
+      { "attribute": "fellowship",    "amount":  5 },
+      { "attribute": "fellowship",    "amount":  5 },
+      { "attribute": "intelligence",  "amount":  5 },
+      { "attribute": "intelligence",  "amount":  5 },
+      { "attribute": "perception",    "amount":  5 },
+      { "attribute": "willpower",     "amount":  5 },
+      { "attribute": "willpower",     "amount":  5 }
     ],
     "talents":
     [

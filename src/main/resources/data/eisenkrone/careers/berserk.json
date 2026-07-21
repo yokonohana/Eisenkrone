@@ -8,18 +8,20 @@
   "advances": {
     "skills":
       [
-        "athletics", "folklore", "guile", "intimidate", "martial_melee",
-        "resolve", "simple_melee", "simple_ranged", "toughness", "warfare"
+        "athletics",    "folklore",       "guile",
+        "intimidate",   "martial_melee",  "resolve",
+        "simple_melee", "simple_ranged",  "toughness",
+        "warfare"
       ],
     "bonus":
     [
-      { "attribute": "brawn", "amount":  5 },
-      { "attribute": "brawn", "amount":  5 },
-      { "attribute": "combat", "amount":  5 },
-      { "attribute": "combat", "amount":  5 },
-      { "attribute": "intelligence", "amount":  5 },
-      { "attribute": "willpower", "amount":  5 },
-      { "attribute": "willpower", "amount":  5 }
+      { "attribute": "brawn",         "amount":  5 },
+      { "attribute": "brawn",         "amount":  5 },
+      { "attribute": "combat",        "amount":  5 },
+      { "attribute": "combat",        "amount":  5 },
+      { "attribute": "intelligence",  "amount":  5 },
+      { "attribute": "willpower",     "amount":  5 },
+      { "attribute": "willpower",     "amount":  5 }
     ],
     "talents":
     [

@@ -8,18 +8,20 @@
   "advances": {
     "skills":
       [
-        "eavesdrop", "folklore", "guile", "interrogation", "leadership",
-        "resolve", "intimidate", "rumor", "scrutinize", "simple_melee"
+        "eavesdrop",      "folklore",   "guile",
+        "interrogation",  "leadership", "resolve",
+        "intimidate",     "rumor",      "scrutinize",
+        "simple_melee"
       ],
     "bonus":
     [
-      { "attribute": "brawn", "amount":  5 },
-      { "attribute": "fellowship", "amount":  5 },
-      { "attribute": "fellowship", "amount":  5 },
-      { "attribute": "perception", "amount":  5 },
-      { "attribute": "perception", "amount":  5 },
-      { "attribute": "willpower", "amount":  5 },
-      { "attribute": "willpower", "amount":  5 }
+      { "attribute": "brawn",       "amount":  5 },
+      { "attribute": "fellowship",  "amount":  5 },
+      { "attribute": "fellowship",  "amount":  5 },
+      { "attribute": "perception",  "amount":  5 },
+      { "attribute": "perception",  "amount":  5 },
+      { "attribute": "willpower",   "amount":  5 },
+      { "attribute": "willpower",   "amount":  5 }
     ],
     "talents":
     [
