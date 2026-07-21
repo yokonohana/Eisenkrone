@@ -22,6 +22,9 @@ public class SkillJsonLoader extends SimpleJsonResourceReloadListener {
         super(new Gson(), "skills");
     }
 
+    // TODO: добавить валидацию существования skills/talents в SkillRegistry/TalentRegistry,
+    //       когда объём контента вырастет или появятся сторонние контрибьюторы
+
     @Override
     protected void apply(@NotNull Map<ResourceLocation, JsonElement> resourceLocationJsonElementMap,
                          @NotNull ResourceManager resourceManager, @NotNull ProfilerFiller profilerFiller) {
