@@ -1,5 +1,4 @@
 {
-  "id": "anarchist",
   "display_name": "anarchist",
   "type": "socialite",
   "desc": "this is a description.",
@@ -14,7 +13,13 @@
       ],
     "bonus":
     [
-      "BB", "FB", "FB", "PB", "PB", "WB", "WB"
+      { "attribute": "brawn", "amount":  5 },
+      { "attribute": "fellowship", "amount":  5 },
+      { "attribute": "fellowship", "amount":  5 },
+      { "attribute": "perception", "amount":  5 },
+      { "attribute": "perception", "amount":  5 },
+      { "attribute": "willpower", "amount":  5 },
+      { "attribute": "willpower", "amount":  5 }
     ],
     "talents":
     [

@@ -1,5 +1,4 @@
 {
-  "id": "berserk",
   "display_name": "berserk",
   "type": "warrior",
   "desc": "this is a description.",
@@ -14,7 +13,13 @@
       ],
     "bonus":
     [
-      "BB", "BB", "CB", "CB", "IB", "WB", "WB"
+      { "attribute": "brawn", "amount":  5 },
+      { "attribute": "brawn", "amount":  5 },
+      { "attribute": "combat", "amount":  5 },
+      { "attribute": "combat", "amount":  5 },
+      { "attribute": "intelligence", "amount":  5 },
+      { "attribute": "willpower", "amount":  5 },
+      { "attribute": "willpower", "amount":  5 }
     ],
     "talents":
     [

@@ -1,5 +1,4 @@
 {
-  "id": "adherent",
   "display_name": "adherent",
   "type": "academic",
   "desc": "this is a description.",
@@ -14,7 +13,13 @@
       ],
     "bonus":
     [
-      "FB", "FB", "IB", "IB", "PB", "WB", "WB"
+      { "attribute": "fellowship", "amount":  5 },
+      { "attribute": "fellowship", "amount":  5 },
+      { "attribute": "intelligence", "amount":  5 },
+      { "attribute": "intelligence", "amount":  5 },
+      { "attribute": "perception", "amount":  5 },
+      { "attribute": "willpower", "amount":  5 },
+      { "attribute": "willpower", "amount":  5 }
     ],
     "talents":
     [
