@@ -1,0 +1,20 @@
+{
+  "display_name": "Human",
+  "desc": "this is a description.",
+  "size": "normal",
+  "modifiers":
+    [
+      { "attribute": "brawn",         "amount":  5 },
+      { "attribute": "intelligence",  "amount":  5 },
+      { "attribute": "perception",    "amount":  5 },
+      { "attribute": "agility",       "amount": -5 },
+      { "attribute": "fellowship",    "amount": -5 },
+      { "attribute": "willpower",     "amount": -5 }
+    ],
+  "traits": [
+    "blessing_in_disguise", "danger_sense",     "dauntless",
+    "esoteric_memory",      "fortunes_wheel",   "grim_resolve",
+    "manifest_destiny",     "mixed_bloodline",  "mountain_amongst_men",
+    "natural_selection",    "noble_savage",     "seventh_sense"
+  ]
+}
