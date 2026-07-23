@@ -1,4 +1,4 @@
-package com.zweihander.eisenkrone.systems.modifiers;
+package com.zweihander.eisenkrone.systems.data.attributes;
 
 import com.mojang.serialization.Codec;
 import com.mojang.serialization.codecs.RecordCodecBuilder;
@@ -7,7 +7,6 @@ import com.zweihander.eisenkrone.systems.core.Attribute;
 import java.util.ArrayList;
 import java.util.EnumMap;
 import java.util.List;
-import java.util.Set;
 
 public class AttributeContainer {
     private final EnumMap<Attribute, AttributeInstance> instances = new EnumMap<>(Attribute.class);
