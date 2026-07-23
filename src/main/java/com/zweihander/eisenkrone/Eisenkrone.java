@@ -31,12 +31,14 @@ import net.neoforged.neoforge.registries.DeferredHolder;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
 
+import static com.zweihander.eisenkrone.systems.data.ModAttachments.ATTACHMENT_TYPES;
+
 @Mod(Eisenkrone.MODID)
 public class Eisenkrone {
     public static final String MODID = "eisenkrone";
     public static final Logger LOGGER = LogUtils.getLogger();
 
     public Eisenkrone(IEventBus modEventBus, ModContainer modContainer) {
-        // Регистрация своих блоков, предметов и т.д.
+        ATTACHMENT_TYPES.register(modEventBus);
     }
 }
