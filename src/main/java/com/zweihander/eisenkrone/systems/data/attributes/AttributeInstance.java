@@ -1,4 +1,4 @@
-package com.zweihander.eisenkrone.systems.modifiers;
+package com.zweihander.eisenkrone.systems.data.attributes;
 
 import com.mojang.serialization.Codec;
 import com.mojang.serialization.codecs.RecordCodecBuilder;
